@@ -24,3 +24,7 @@ Report problems or request features using [GitHub Issues](https://github.com/cod
 ## Source code
 
 The application and game source repositories are privately maintained. This repository is used for public releases, documentation, and issue tracking.
+
+## Marketing presentation
+
+See [the portfolio presentation standard and product brief](docs/MARKETING-PRESENTATION.md) before creating or changing public marketing material.
